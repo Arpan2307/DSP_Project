@@ -39,3 +39,9 @@ Ensure the following tools and libraries are installed:
 - Python 3.x  
 - Jupyter Notebook  
 - Required libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn'
+
+## Running The Notebook
+- Launch Jupyter Notebook
+- Open the Final_Code.ipynb file in the Jupyter interface.
+- Run all the cells one by one
+
